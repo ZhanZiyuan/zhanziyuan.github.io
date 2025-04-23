@@ -1,0 +1,77 @@
+# Project information
+site_name: 夢地図
+site_description: Zhan Ziyuan's blog
+site_author: zhanziyuan
+site_url: https://zhanziyuan.github.io/
+
+# Repository
+repo_name: ZhanZiyuan/zhanziyuan.github.io
+repo_url: https://github.com/ZhanZiyuan/zhanziyuan.github.io/
+
+# Copyright
+copyright: Copyright &copy; 2024 - 2025 Zhan Ziyuan
+
+# Configuration
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: deep purple
+  feature:
+    tabs: true
+  font:
+    text: Roboto
+    code: Inconsolata
+  logo:
+    icon: explore
+  favicon: assets/images/favicon.png # https://jdenticon.com/#icon-Juliana
+  language: zh
+
+# Additional configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZhanZiyuan/
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - toc:
+      permalink: true
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+# Plugins
+plugins:
+  - blog
+  - search:
+      separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+# Page tree
+nav:
+  - Home: index.md
+  - Contents:
+      - Introduction: introduction.md
+      - References: references.md
