@@ -23,7 +23,7 @@ theme:
     text: Roboto
     code: Inconsolata
   logo:
-    icon: explore
+    icon: school
   favicon: assets/images/favicon.png # https://jdenticon.com/#icon-Juliana
   language: zh
 
@@ -65,7 +65,6 @@ extra_javascript:
 
 # Plugins
 plugins:
-  - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
