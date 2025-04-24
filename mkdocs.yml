@@ -32,6 +32,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ZhanZiyuan/
+  analytics:
+    provider: google
+    property: G-2JG9LL1KDQ
 
 # Extensions
 markdown_extensions:
