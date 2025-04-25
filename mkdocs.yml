@@ -23,7 +23,7 @@ theme:
     text: Roboto
     code: Inconsolata
   logo:
-    icon: school
+    # icon: school
   favicon: assets/images/favicon.png # https://jdenticon.com/#icon-Juliana
   language: zh
 
