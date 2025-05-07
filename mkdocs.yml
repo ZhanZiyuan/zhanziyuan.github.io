@@ -23,10 +23,10 @@ theme:
     text: Roboto
     code: Inconsolata
   logo:
-    icon: material/explore
+    # icon: school
   icon:
     repo: fontawesome/brands/github
-  favicon: assets/images/favicon.ico # https://jdenticon.com/#icon-Juliana
+  favicon: assets/favicon.png # https://jdenticon.com/#icon-Juliana
   language: zh
 
 # Additional configuration
