@@ -5,7 +5,7 @@ site_author: zhanziyuan
 site_url: https://zhanziyuan.github.io/
 
 # Repository
-repo_name: ZhanZiyuan/zhanziyuan.github.io
+repo_name: zhanziyuan.github.io
 repo_url: https://github.com/ZhanZiyuan/zhanziyuan.github.io/
 
 # Copyright
@@ -23,8 +23,10 @@ theme:
     text: Roboto
     code: Inconsolata
   logo:
-    # icon: school
-  favicon: assets/images/favicon.png # https://jdenticon.com/#icon-Juliana
+    icon: material/explore
+  icon:
+    repo: fontawesome/brands/github
+  favicon: assets/images/favicon.ico # https://jdenticon.com/#icon-Juliana
   language: zh
 
 # Additional configuration
@@ -69,7 +71,9 @@ extra_javascript:
 # Plugins
 plugins:
   - search:
-      # separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+      lang:
+        - zh
+        - en
 
 # Page tree
 nav:
