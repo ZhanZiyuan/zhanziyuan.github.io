@@ -16,8 +16,6 @@ TVアニメ『#メダリスト 』
 
 📺テレビ朝日系“NUMAnimation”枠にて
 
-#medalist
-
 ![メダリスト](https://pbs.twimg.com/media/GgdnNoZa8AMX_7n.jpg "メダリスト")
 
 ## [ぼくたちのリメイク](https://bokurema.com/)
