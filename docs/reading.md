@@ -114,6 +114,63 @@
 
 ## [Why Explore Space?](https://starforcep.github.io/sychaguan/tid-3486.html)
 
+### English
+
+……
+
+Higher food production through survey and assessment from orbit,
+and better food distribution through improved international relations,
+are only two examples of how profoundly the space program will impact life on Earth.
+I would like to quote two other examples: stimulation of technological development,
+and generation of scientific knowledge.
+
+The requirements for high precision
+and for extreme reliability
+which must be imposed upon the components of a moon-travelling spacecraft
+are entirely unprecedented in the history of engineering.
+The development of systems
+which meet these severe requirements has provided us a unique opportunity
+to find new material and methods,
+to invent better technical systems,
+to manufacturing procedures,
+to lengthen the lifetimes of instruments,
+and even to discover new laws of nature.
+
+All this newly acquired technical knowledge
+is also available for application to Earth-bound technologies.
+Every year,
+about a thousand technical innovations generated in the space program
+find their ways into our Earthly technology
+where they lead to better kitchen appliances and farm equipment,
+better sewing machines and radios,
+better ships and airplanes,
+better weather forecasting and storm warning,
+better communications,
+better medical instruments,
+better utensils and tools for everyday life.
+Presumably,
+you will ask now why we must develop first a life support system
+for our moon-travelling astronauts,
+before we can build a remote-reading sensor system for heart patients.
+The answer is simple:
+significant progress in the solutions of technical problems
+is frequently made not by a direct approach,
+but by first setting a goal of high challenge
+which offers a strong motivation for innovative work,
+which fires the imagination and spurs men to expend their best efforts,
+and which acts as a catalyst by including chains of other reactions.
+
+Spaceflight without any doubt is playing exactly this role.
+The voyage to Mars will certainly not be a direct source of food for the hungry.
+However,
+it will lead to so many new technologies and capabilities
+that the spin-offs from this project alone
+will be worth many times the cost of its implementation.
+
+……
+
+### 简体中文
+
 ……
 
 通过卫星进行监测与分析来提高食品产量，以及通过改善国际关系提高食品发放的效率，
@@ -146,7 +203,81 @@
 
 ## [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
-再来看一眼这个小点。
+### English
+
+From this distant vantage point,
+the Earth might not seem of any particular interest.
+But for us,
+it's different.
+Consider again that dot.
+That's here.
+That's home.
+That's us.
+On it everyone you love,
+everyone you know,
+everyone you ever heard of,
+every human being who ever was,
+lived out their lives.
+The aggregate of our joy and suffering,
+thousands of confident religions,
+ideologies,
+and economic doctrines,
+every hunter and forager,
+every hero and coward,
+every creator and destroyer of civilization,
+every king and peasant,
+every young couple in love,
+every mother and father,
+hopeful child,
+inventor and explorer,
+every teacher of morals,
+every corrupt politician,
+every "superstar",
+every "supreme leader",
+every saint and sinner in the history of our species lived there
+– on a mote of dust suspended in a sunbeam.
+
+The Earth is a very small stage in a vast cosmic arena.
+Think of the rivers of blood spilled by all those generals and emperors so that,
+in glory and triumph,
+they could become the momentary masters of a fraction of a dot.
+Think of the endless cruelties visited by the inhabitants
+of one corner of this pixel
+on the scarcely distinguishable inhabitants of some other corner,
+how frequent their misunderstandings,
+how eager they are to kill one another,
+how fervent their hatreds.
+
+Our posturings,
+our imagined self-importance,
+the delusion that we have some privileged position in the Universe,
+are challenged by this point of pale light.
+Our planet is a lonely speck in the great enveloping cosmic dark.
+In our obscurity,
+in all this vastness,
+there is no hint that help will come from elsewhere to save us from ourselves.
+
+The Earth is the only world known so far to harbor life.
+There is nowhere else,
+at least in the near future,
+to which our species could migrate.
+Visit, yes.
+Settle, not yet.
+Like it or not,
+for the moment the Earth is where we make our stand.
+
+It has been said that astronomy is a humbling
+and character-building experience.
+There is perhaps no better demonstration of the folly of human conceits
+than this distant image of our tiny world.
+To me,
+it underscores our responsibility to deal more kindly with one another,
+and to preserve and cherish the pale blue dot,
+the only home we've ever known.
+
+### 简体中文
+
+“再来看一眼这个小点。
 就在这里。
 这就是家。
 这就是我们。
@@ -180,7 +311,7 @@
 也许没有什么能比从遥远太空拍摄到的我们微小世界的这张照片，更能展示人类的自负有多愚蠢。
 对我而言，这也是在提醒我们的责任所在：
 更和善地对待彼此，并维护和珍惜这颗暗蓝色的小点
-——这个我们目前所知唯一的家园。
+——这个我们目前所知唯一的家园。”
 
 ## [Mission: Impossible – The Final Reckoning](https://movie.douban.com/review/16750488/)
 
