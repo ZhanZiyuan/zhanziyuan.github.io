@@ -815,6 +815,8 @@ it underscores our responsibility to deal more kindly with one another,
 and to preserve and cherish the pale blue dot,
 the only home we've ever known.
 
+![the Pale Blue Dot - Original (1990)](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00452/jpeg/PIA00452.jpg "the Pale Blue Dot - Original (1990)")
+
 ### 简体中文
 
 “再来看一眼这个小点。
@@ -852,6 +854,8 @@ the only home we've ever known.
 对我而言，这也是在提醒我们的责任所在：
 更和善地对待彼此，并维护和珍惜这颗暗蓝色的小点
 ——这个我们目前所知唯一的家园。”
+
+![the Pale Blue Dot - Revisited (2020)](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia23/pia23645/jpeg/PIA23645.jpg "the Pale Blue Dot - Revisited (2020)")
 
 ## [Mission: Impossible – The Final Reckoning](https://movie.douban.com/review/16750488/)
 
