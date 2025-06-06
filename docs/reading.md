@@ -1,4 +1,4 @@
-# 文章
+# 阅读
 
 ## [单读17：人的困境 - 几乎还有记忆](https://weread.qq.com/web/bookDetail/e303224071bfd314e305e77)
 
