@@ -13,3 +13,13 @@
 ## [如何评价《把自己作为方法》这本书？](https://www.zhihu.com/question/422262984/answer/1538925332)
 
 ## [韩炳哲vs奈格里：为什么今天不可能发生“革命”？](https://zhuanlan.zhihu.com/p/1902767517421791212)
+
+## [弗洛伊德的理论那么扯淡为什么他又那么出名？](https://www.zhihu.com/question/268161638/answer/1890548343572242841)
+
+## [精神分析是不是骗人的？](https://www.zhihu.com/question/518357127/answer/123449805094)
+
+## [在领悟到什么道理后，你的人生从此轻松了起来？](https://www.zhihu.com/question/467881890/answer/1895834961203930913)
+
+## [2025年，发达国家的“投胎大于努力”现象](https://zhuanlan.zhihu.com/p/26936523092)
+
+## [世界各国开始“重女轻男”](https://zhuanlan.zhihu.com/p/1914135187379421944)
