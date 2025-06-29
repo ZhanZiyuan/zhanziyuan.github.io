@@ -36,6 +36,7 @@ theme:
   language: zh
   include_search_page: false
   search_index_only: true
+  custom_dir: overrides
 
 # Additional configuration
 extra:
