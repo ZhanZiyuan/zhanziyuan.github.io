@@ -1,3 +1,3 @@
 # Welcome to Zhan Ziyuan's blog
 
-Under construction.
+This page is intentionally left blank.
