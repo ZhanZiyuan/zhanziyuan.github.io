@@ -1,4 +1,4 @@
-# [把自己作为方法——与项飙谈话](https://weread.qq.com/web/bookDetail/d7532f80813ab680cg012708)
+# [把自己作为方法——与项飙谈话](https://weread.qq.com/web/reader/d7532f80813ab680cg012708)
 
 ## 北大青年的焦虑
 
