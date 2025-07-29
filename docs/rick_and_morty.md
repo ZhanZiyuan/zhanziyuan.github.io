@@ -25,6 +25,36 @@ Come on, Morty.
 我要是你，就不会想做这事。
 走，莫蒂。
 
+## [Season 1 Episode 10 Close Rick-Counters of the Rick Kind](https://www.imdb.com/title/tt3333846/)
+
+### [English](https://rickandmorty.fandom.com/wiki/Close_Rick-Counters_of_the_Rick_Kind/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/359060)
+
+……
+
+## [Season 2 Episode 10 The Wedding Squanchers](https://www.imdb.com/title/tt4832278/)
+
+### [English](https://rickandmorty.fandom.com/wiki/The_Wedding_Squanchers/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/552140)
+
+……
+
+## [Season 3 Episode 1 The Rickshank Rickdemption](https://www.imdb.com/title/tt5218228/)
+
+### [English](https://rickandmorty.fandom.com/wiki/The_Rickshank_Rickdemption/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/711224)
+
+……
+
 ## [Season 3 Episode 3 Pickle Rick](https://www.imdb.com/title/tt5218268/)
 
 ### [English](https://rickandmorty.fandom.com/wiki/Pickle_Rick/Transcript)
@@ -80,3 +110,63 @@ Each of us gets to choose.
 这只是工作而已，
 归根结底，有些人愿意工作，而有些人，嗯，有些人宁愿去死。
 我们每个人都要选择。
+
+## [Season 4 Episode 2 The Old Man and the Seat](https://www.imdb.com/title/tt10655676/)
+
+### [English](https://rickandmorty.fandom.com/wiki/The_Old_Man_and_the_Seat/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/917310)
+
+……
+
+## [Season 4 Episode 6 Never Ricking Morty](https://www.imdb.com/title/tt10655686/)
+
+### [English](https://rickandmorty.fandom.com/wiki/Never_Ricking_Morty/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/922915)
+
+……
+
+## [Season 4 Episode 8 The Vat of Acid Episode](https://www.imdb.com/title/tt10655692/)
+
+### [English](https://rickandmorty.fandom.com/wiki/The_Vat_of_Acid_Episode/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/922917)
+
+……
+
+## [Season 7 Episode 4 That's Amorte](https://www.imdb.com/title/tt29371869/)
+
+### [English](https://rickandmorty.fandom.com/wiki/That%27s_Amorte/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/1220567)
+
+……
+
+## [Season 7 Episode 10 Fear No Mort](https://www.imdb.com/title/tt29371876/)
+
+### [English](https://rickandmorty.fandom.com/wiki/Fear_No_Mort/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/1220573)
+
+……
+
+## [Season 8 Episode 1 Summer of All Fears](https://www.imdb.com/title/tt28608179/)
+
+### [English](https://rickandmorty.fandom.com/wiki/Summer_of_All_Fears/Transcript)
+
+……
+
+### [简体中文](https://bangumi.tv/ep/1483751)
+
+……
