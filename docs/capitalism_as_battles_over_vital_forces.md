@@ -1,4 +1,6 @@
-# [Capitalism as Battles over Vital Forces](https://doi.org/10.25620/e240530-1)
+# [资本主义是争夺生命力的斗争](https://doi.org/10.25620/e240530-1)
+
+## English
 
 Thank you very much.
 Um, this is my first time to be ICI
@@ -1699,3 +1701,7 @@ by really giving me extra life force now.
 
 
 Thank you.
+
+## 简体中文
+
+……
