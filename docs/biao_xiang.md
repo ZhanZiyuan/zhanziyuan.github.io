@@ -1305,10 +1305,6 @@ be awake, be aware, be alive，醒着，知觉着，活着。
 如果只是去生活，活着式的生活，那吃就是吃，喝就是喝，
 但当你把生活作为创作，吃和喝有就有了意义。
 
-## [Capitalism as Battles over Vital Forces](https://doi.org/10.25620/e240530-1)
-
-……
-
 ## [真的，不改变命运也没关系｜毕业季对谈项飙](https://mp.weixin.qq.com/s/CY_ntLmdVJvHKLj-2I97Yw)
 
 ……
