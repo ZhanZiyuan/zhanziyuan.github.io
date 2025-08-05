@@ -244,1462 +244,647 @@ and acute mental health crisis in China, depression,
 suicide, et cetera.
 And as a way young people describe their condition
 &nbsp;
-
 of being depressed, uh, is often, uh,
-
-
 through the notion of life force.
-
-
 They said, I feel my life force is stolen.
-
-
+&nbsp;
 I feel I'm draining my life force
-
-
 and I'm losing my life force.
-
-
 But after something positive for them, for instance,
-
-
+&nbsp;
 a good conversation
-
-
 and, you know, engage in a public event,
-
-
 which I also organize a bit through art and et cetera.
-
-
+&nbsp;
 And then, uh, the comment is often feel, oh, you know, the,
-
-
 the life force come back, feel the life force being, uh, uh,
-
-
+&nbsp;
 nourished, uh, life force become augmented,
-
-
 become enlarged.
-
-
 The enlarged is, is often, uh, the, the, the imaginary
-
-
 of enlargement of live force is often, uh, used.
-
-
+&nbsp;
 So, I mean, it's very close to Spinoza, um,
-
-
 uh, I a perception of, of the world.
-
-
 Uh, so the world is organized around, around the life force,
-
-
+&nbsp;
 and there's a dominant question for them, is that why
-
-
 I'm losing my life force?
-
-
 Why the all external forces take away my life force
-
-
+&nbsp;
 and how I can get back my, uh, uh, life force.
-
-
 Um, and this question, the reason that they, uh,
-
-
+&nbsp;
 use their life for life force
-
-
 to describe the living condition.
-
-
 Of course, it has lot to do
-
-
 with the political economy and et cetera.
-
-
+&nbsp;
 Uh, people do talk about, you know, exploitation.
-
-
 You can say, oh, you know, people steal your life force.
-
-
 Basically, you work too hard. People exploit to you.
-
-
+&nbsp;
 Or we can talk about the political repression.
-
-
 You know, you don't have a freedom.
-
-
 You cannot express yourself.
-
-
 Of course, you feel your life force is contained,
-
-
+&nbsp;
 and the young people do use language such exploitation
-
-
 or repression to describe their situation.
-
-
 But, uh, interestingly, when they use
-
-
+&nbsp;
 categories such exploitation
-
-
 or repression, very quickly, the message became quite,
-
-
 uh, fatalistic or even cynical.
-
-
 They say, of course, I know I'm being
-
-
+&nbsp;
 exploited, and that's it.
-
-
 I can't do anything about it.
-
-
 Is quite melon colleague, uh, also fatalistic,
-
-
 uh, or pessimistic, uh,
-
-
+&nbsp;
 and description of the structural condition.
-
-
 They're being exploited
-
-
 and being repressed by something that completely
-
-
 beyond their control.
-
-
 But when they mention life force,
-
-
+&nbsp;
 the meaning change is no longer to say,
-
-
 or we are just being exploited.
-
-
 It immediately, uh,
-
-
 brings in a sense of struggle.
-
-
+&nbsp;
 You know, my life force is being taken away
-
-
 and I want to cultivate my own life force.
-
-
 So there is a sense of struggle.
-
-
+&nbsp;
 So the agency somehow emerged in this
-
-
 dark situation.
-
-
 Uh, also when people talk about the life of force,
-
-
 also have a sense of dialectics, uh,
-
-
+&nbsp;
 uh, connotation, meaning
-
-
 that when you talk about exploitation
-
-
 and, uh, uh, repression is mainly talking about
-
-
 how external force, you know, act on them.
-
-
+&nbsp;
 But when they talk about the life force, the self
-
-
 become a agent, of course,
-
-
 they're not celebrating kind of okay.
-
-
+&nbsp;
 I mean, I mean, I'm, uh, uh, you know, the, the, uh, uh,
-
-
 the power of the self or anything.
-
-
+&nbsp;
 But here you can see the self try to,
-
-
 to act back, try to act back.
-
-
 So they say, while they recognize how, uh,
-
-
+&nbsp;
 difficult the situation is,
-
-
 but they feel there is a life in, in inside of the self,
-
-
 and they try to regain or push back.
-
-
+&nbsp;
 So I found that that, so the notion of life of force
-
-
 as a kind of interface between that type
-
-
+&nbsp;
 of self consciousness on one hand,
-
-
 and the consciousness about the structural condition, uh,
-
-
 uh, is interesting
-
-
 and is interesting entry point for thinking about our life
-
-
+&nbsp;
 and politics in a way that is not only to
-
-
 elucidate objective condition,
-
-
 but in a way in order to mobilize further certain type
-
-
+&nbsp;
 of consciousness and a certain type of agency.
-
-
 Um, as I mentioned, I mean, the emergence
-
-
 of this consciousness definitely have to do with the fact
-
-
+&nbsp;
 that disappearance of a class
-
-
 as a, uh, meaningful category, uh,
-
-
 for people to think of their life.
-
-
 Actually, young Chinese, uh, use the word class very often,
-
-
+&nbsp;
 but you can see they're using the word class as a text
-
-
 to describe and to make certain statement,
-
-
 we are under class.
-
-
+&nbsp;
 And, uh, but, but,
-
-
 but there's a adjunctive self does not come through.
-
-
 Uh, this is because, uh, you know,
-
-
+&nbsp;
 there's no party associated with the class.
-
-
 And then there working condition, uh, is not conducive
-
-
 to bring in classical class politics.
-
-
+&nbsp;
 And also, uh, with the massification
-
-
 of higher education across the world since the 1960s,
-
-
 and in the global south since 1980s, 1990s.
-
-
+&nbsp;
 And many people do not really genuinely perceive
-
-
 themselves as labor.
-
-
 So they were more thinking themselves as a, a talent
-
-
+&nbsp;
 and, uh, and, uh, uh, just interesting individuals.
-
-
 This is how they perceive themselves.
-
-
 So the pain is coming from this life of force.
-
-
+&nbsp;
 Question I gave you very quick, um, vette about how, uh,
-
-
 uh, uh, uh, uh, many large IT
-
-
 companies hire, uh, staff.
-
-
+&nbsp;
 So they have the 3, 4, 5, uh, formula in hiring.
-
-
 Basically, they, uh, hire three persons,
-
-
 pay them four persons a salary,
-
-
+&nbsp;
 and ask them to do five persons work.
-
-
 So I, for a while, I was very puzzled.
-
-
 I said, okay, is I just wanna save money or,
-
-
+&nbsp;
 or, uh, so why don't they just, uh, you know, uh,
-
-
 hire five people and pay five persons average salary,
-
-
+&nbsp;
 ask them to do five persons work,
-
-
 which is much more manageable
-
-
 because you have all the standard, uh, template out there
-
-
+&nbsp;
 to regulate such, uh, organization.
-
-
 And when I mentioned that,
-
-
 and the young people say, of course not.
-
-
 If they hire five, pay, five person salary, ask us
-
-
+&nbsp;
 to do five personal work, then
-
-
 we are just workers.
-
-
 The whole point is that they don't hire us as workers,
-
-
+&nbsp;
 as labor, as wage labor.
-
-
 They hire us as a talent, as someone
-
-
 will always do extraordinary
-
-
 above average work, and always outperform the average, and
-
-
+&nbsp;
 therefore, who are also always a demand, uh,
-
-
 above average, uh, rewards and the salary.
-
-
 So this is the how, how, I mean,
-
-
+&nbsp;
 you can say this is a, you know, a new form
-
-
 of labor exploitation,
-
-
 but here, what what make it works is not just, you know,
-
-
+&nbsp;
 you, you, you standardize the, the work method,
-
-
 or you organize this assembly line
-
-
 and to, to monitor the no, it is really
-
-
+&nbsp;
 to ens instill this sense of, I, I'm, I'm, I'm,
-
-
 I'm extraordinary, uh, very creative, uh,
-
-
 individual full potentials.
-
-
 But of course, this is a familiar stories.
-
-
+&nbsp;
 There's 3, 4, 5,
-
-
 but this put in the 3, 4, 5 formula is,
-
-
 I haven't seen somewhere else.
-
-
 But I mean, the logic is not difficult to understand.
-
-
+&nbsp;
 But my key point is that in this condition,
-
-
 what is the, the response of young people,
-
-
 of these actually workers back?
-
-
+&nbsp;
 Because here the labor consciousness probably is not
-
-
 applicable, but actually you should listen to them.
-
-
 They say, okay, I will receive four person's salary.
-
-
+&nbsp;
 But the work, uh, uh, the workload is actually for 5%,
-
-
 only three of the share that that kind of pressure,
-
-
+&nbsp;
 uh, is huge.
-
-
 So the thing they complain is not necessarily labor load.
-
-
 Lots of is about sleeplessness headache,
-
-
 uh, short of breath, uh, in, in work,
-
-
+&nbsp;
 and, uh, uh, never see daylight.
-
-
 One informant told me the biggest complaint was he,
-
-
 she never saw daylight
-
-
 because when she went to work, it's dark,
-
-
+&nbsp;
 and she never, uh, le uh, left office, uh,
-
-
 uh, before, uh, uh, sunset.
-
-
 So whenever she was outside, she's always in the night.
-
-
+&nbsp;
 Um, so this political change also means
-
-
 that the category of class
-
-
 and labor become probably less relevant.
-
-
 And then what is, uh, life of force
-
-
+&nbsp;
 and the life of force, I, I, my definition is a sustainable,
-
-
 uh, capacity to interact with the external world.
-
-
+&nbsp;
 I mean, that's a really banial definition, life force.
-
-
 Uh, but here the key is, um,
-
-
 is sustainable, I suppose.
-
-
+&nbsp;
 Because what we observe, uh, in China is
-
-
 that if you just look at on the surface,
-
-
 then everyone appears to be full of life force
-
-
+&nbsp;
 because they're so busy.
-
-
 You know, these people never say, they never, uh, see
-
-
 daylight, uh, outside.
-
-
 It's very busy as if they are, she has
-
-
+&nbsp;
 to constantly mobilize her vitality to, to work
-
-
 and, uh, to fully alert the mind is fully,
-
-
 this is why they said, you know, we just live on coffee
-
-
+&nbsp;
 during the day and leave on sleeping pill in the night.
-
-
 So the fully alert,
-
-
 but that is a not a sustainable form of how you
-
-
+&nbsp;
 interact with the world.
-
-
 So the, the, uh, uh, the su the,
-
-
 the sustainability here is what I want
-
-
 to think a little more.
-
-
+&nbsp;
 So, how do you, uh,
-
-
 create a situation that you can interact
-
-
 with the external world in a sustainable, uh, sustain,
-
-
+&nbsp;
 sustainable manner?
-
-
 Here? I think the, you have to, uh,
-
-
 form a particular relation between the self
-
-
 and as a world between your action and as a world response,
-
-
+&nbsp;
 or between the world demand on you and the way you react.
-
-
 You must have certain type of relation between you can say,
-
-
+&nbsp;
 uh, the self and the world.
-
-
 And my, I mean, this is not the theoretical work.
-
-
 It is just based on ethnographic observation
-
-
+&nbsp;
 and a very important, uh,
-
-
 reason that why some condition will, uh,
-
-
 give you this kind of sustainable capacity
-
-
 of interacting with the world.
-
-
+&nbsp;
 And then even, you know, you will have difficulties in such,
-
-
 but you learn the difficult learn from the difficulties,
-
-
+&nbsp;
 and you become, uh, you know, more powerful,
-
-
 you feel more resilient, you can carry on, so
-
-
 therefore sustainable and
-
-
+&nbsp;
 or in other conditions, uh, it's just not a sustainable,
-
-
 even though you are rewarded, uh, very generously.
-
-
 Like students study very hard, have high scores,
-
-
+&nbsp;
 and they got all the prizes,
-
-
 but then they suddenly collapse.
-
-
 Uh, so why this, uh, uh, what makes the difference
-
-
+&nbsp;
 between these two modes of being very busy, uh,
-
-
 uh, two modes of exercising your own vitality, um, is
-
-
 that whether a person can, uh,
-
-
+&nbsp;
 mobilize in the, if we use a phenomenological
-
-
 term, is a stock of knowledge
-
-
 or your stock of experiences to define
-
-
+&nbsp;
 a situation in front of you, and also whether
-
-
 or not you can mobilize your
-
-
 ex relatively wide range of experiences to respond,
-
-
+&nbsp;
 a challenge imposed by the world.
-
-
 What I mean is that the, the typical condition
-
-
 that the people feel their life force being drained is that
-
-
+&nbsp;
 if there's a demand, they will respond to the demand very
-
-
 directly without being able to mobilize knowledges
-
-
 memories, experiences outside of the demand
-
-
+&nbsp;
 and come up with his or her own definition of the demand.
-
-
 So the typical example is, uh, in this kind of a pressure,
-
-
+&nbsp;
 pressure cooker school system.
-
-
 So students were, this is what education means.
-
-
 Basically, students were put in such a, uh,
-
-
+&nbsp;
 constant feedback loop.
-
-
 You study very hard,
-
-
 and then you get high score, then you get the reward,
-
-
 and then you prepare for next exam and et cetera.
-
-
+&nbsp;
 So such very clear causal, uh,
-
-
 uh, uh, you know,
-
-
 reward system actually can be very meaningful for people
-
-
 because they see, ah, if I press this button, I study hard,
-
-
+&nbsp;
 then I can get high school, I get the reward.
-
-
 And this is why many young Chinese told me they felt
-
-
+&nbsp;
 so difficult after they graduated from school,
-
-
 when they start working.
-
-
 I mean, of course that is a huge,
-
-
 hugely different from my generation's experiences.
-
-
+&nbsp;
 I said, why didn't you celebrate the fact
-
-
 that now you are becoming economically independent?
-
-
 You know, you are finally a full adult.
-
-
+&nbsp;
 And as I said, it is so confusing in school, life was
-
-
 so clear, there's one single
-
-
 feedback loop I can follow.
-
-
+&nbsp;
 So then inside of this loop, of course, you, you, you,
-
-
 you are very, you can be very energized, very concentrated,
-
-
+&nbsp;
 but this is also immediate cause of many mental,
-
-
 uh, uh, problems.
-
-
 And the reason is what I'm using this example to demon, to
-
-
+&nbsp;
 to show what I mean, when you become a,
-
-
 just a, a kind of mechanical agent, almost responding
-
-
 to demand without being able to come up
-
-
+&nbsp;
 with your own definition of the problem
-
-
 by mobilizing your experiences, memories
-
-
 beyond the demanded self.
-
-
 And also this explains why the school system, you know, now
-
-
+&nbsp;
 most students are boarding students
-
-
 and very long hour workers, they really try to minimize any
-
-
 time spent or space spent outside of the school,
-
-
+&nbsp;
 you know, academic study.
-
-
 It is precisely to shrink, to minimize the,
-
-
 the reservoir of extra, uh, cru experiences.
-
-
 Because once you have that, you will come back
-
-
+&nbsp;
 and define the whole situation your own term.
-
-
 So you probably will push back the, the, the, the situation.
-
-
 So that is the, the, this kind of experiential basis
-
-
+&nbsp;
 reservoir is a very important base of, of life force.
-
-
 Yeah. So then life force probably finally, I, uh, you know,
-
-
+&nbsp;
 I think is the, the key here is really is the, the relation,
-
-
 as I said, the relation between the self, uh, uh,
-
-
+&nbsp;
 and the, uh, the world.
-
-
 And here it's, it's, it's quite a paradoxical here,
-
-
 the life force, because on one hand the life force is some
-
-
+&nbsp;
 something, uh, ultimately and extremely private,
-
-
 because life force is something only you can feel.
-
-
 It's a subjective feeling about whether you can act
-
-
+&nbsp;
 on the world or not.
-
-
 How you perceive the world
-
-
 or not is only you have access to your life force.
-
-
+&nbsp;
 And in many, many difficult situations, as we all experience
-
-
 to, to different degrees,
-
-
 that life force is the last resort that we have
-
-
+&nbsp;
 to push back, difficult situation.
-
-
 So it is very, very private.
-
-
 Uh, so this is also, I think, you know, I want
-
-
+&nbsp;
 to make a quick distinction between life force and the life.
-
-
 The, in the, the philosophy of life, especially Fuko
-
-
+&nbsp;
 and et cetera, is, uh, uh, life is in the, in the,
-
-
 in the modern, uh, uh, system become objectified.
-
-
+&nbsp;
 Life will become a subject and object of governance.
-
-
 But life of force is something you cannot objectify
-
-
 because it is very personal, private, uh,
-
-
+&nbsp;
 but yet, uh, a life force
-
-
 cannot come from inside.
-
-
 Here is a Chinese,
-
-
 and, uh, uh, I mean, it's not a philosophy, but just a chi.
-
-
+&nbsp;
 You can say life philosophy
-
-
 and a folk philosophy, which is a kind of combination
-
-
 of Taoism to some extent, Confucianism
-
-
+&nbsp;
 and Buddhism as well.
-
-
 Because the life is, i is in a kind
-
-
 of very sharp contrast to, to the European psychoanalysis.
-
-
+&nbsp;
 The life, the essence of life is not coming from something
-
-
 inside that you will review, you will discover
-
-
 something that you can trace its origin to your childhood
-
-
+&nbsp;
 or infant stage and et cetera.
-
-
 Life is always a result of inhaling,
-
-
 absorbing from the outside.
-
-
 So this, like the Ong
-
-
+&nbsp;
 and the tism, the idea, the, the, the, the essence,
-
-
 the energy and the consciousness is all about the,
-
-
 the assembling
-
-
+&nbsp;
 and the concentration of energy outside.
-
-
 So the, so the life is kind of, you can say figuration,
-
-
 figuration of universal energy have this notion, I mean,
-
-
+&nbsp;
 of course this is, you know, metaphysical
-
-
 and such, what does that mean?
-
-
 Uh, but it means this imaginary for me is very powerful
-
-
+&nbsp;
 because it is to say that whether you can have a happy life,
-
-
 whether or not you feel you are capable of dealing the world
-
-
+&nbsp;
 very much depends on your capacity of inhaling,
-
-
 absorbing different elements from our side.
-
-
 So there's no clear core to start with.
-
-
+&nbsp;
 It's a process of absorbing.
-
-
 Uh, so this also I think is very, I mean,
-
-
 this is my very wild, uh, speculation,
-
-
+&nbsp;
 but I want to hear your view is about, you know,
-
-
 does it provide a new angle for us to think of the relation
-
-
+&nbsp;
 between, uh, nature and man,
-
-
 or to rethink of the anthrop problem?
-
-
 Uh, of course, you know, go back to Marx.
-
-
+&nbsp;
 The labor is always a mediation between society
-
-
 and nature, between man and, and, and nature.
-
-
 And what he meant is that labor is,
-
-
+&nbsp;
 the human agency acted on nature.
-
-
 You know, you, you, you turn nature into
-
-
 commodity and et cetera.
-
-
 Today's situation may be the very opposite,
-
-
+&nbsp;
 because many of us do not work on nature
-
-
 and our labor subject, our labor output, our virtual
-
-
 symbols, you know, the computer, uh, codes and, uh, language
-
-
+&nbsp;
 and imaging sign and et cetera.
-
-
 But the word link us to nature
-
-
 could be our body.
-
-
 It is ourself. And we did not feel that way.
-
-
+&nbsp;
 It is because we were blinded by a particular understanding
-
-
 of the self, of a human.
-
-
 If you think of a human, if we become aist,
-
-
+&nbsp;
 then we think we are just a figuration
-
-
 of the natural energy,
-
-
 and then we are part of the, the, the nature.
-
-
+&nbsp;
 So the picture become reversed.
-
-
 And this, I hope it's not just a, uh, you know, uh, uh,
-
-
 feeble, intellectual, uh, uh, exercise,
-
-
+&nbsp;
 but also it does have in impacts on
-
-
 how we think of what a good life is.
-
-
 And if you think your body in this way, do you still,
-
-
+&nbsp;
 is it still so fun to spend so much money driving F1
-
-
 and all that, right?
-
-
 And whether or not as a whole, uh, uh, uh,
-
-
+&nbsp;
 feeling the life force, how you experience
-
-
 and the perceive life force will be different.
-
-
 So this is a kind an anyway, just a bold invitation, whether
-
-
+&nbsp;
 or not we can locate the nature back to the body itself
-
-
 rather than to say, oh, you know, we have to, I mean,
-
-
+&nbsp;
 then you, of course you develop new understanding about your
-
-
 relation with the tree, with, with the forest, with,
-
-
 with all the heat, uh, um,
-
-
+&nbsp;
 with animal and et cetera.
-
-
 So that is the kind of the, the absorbing, uh,
-
-
 uh, uh, element.
-
-
 So I, I was talking about the relation between the self
-
-
+&nbsp;
 and the world, and then this is a positive part, right?
-
-
 So you feel the life force being nourished, nurtured.
-
-
+&nbsp;
 And in the Chinese, they use the word, it
-
-
 means the moisturizing or, or nourishing and, and,
-
-
 and grow, eh, so this's
-
-
+&nbsp;
 and opposite to, to this is
-
-
 that you feel a life force is being drained, being drained,
-
-
 and then you have many examples, uh, being drained.
-
-
+&nbsp;
 Uh, and as a Chinese word is au is kind
-
-
 of internally drained.
-
-
 And I feel that is very interesting
-
-
+&nbsp;
 because imaginary is that someone steal your life force,
-
-
 but your immediate feeling is that it is burned inside.
-
-
 So there is, again, you know, it's,
-
-
+&nbsp;
 they recognize it is external force is a cause
-
-
 of their loss of life, of force,
-
-
 but the immediate experience is very internal.
-
-
+&nbsp;
 It's kind of draining internally, right?
-
-
 So I found that is interesting
-
-
 because I have not figured, uh, work this out yet.
-
-
+&nbsp;
 I'm certainly, we wouldn't call the force consciousness,
-
-
 but this kind of consciousness also shows
-
-
 how external forces act on earth
-
-
+&nbsp;
 through this internal, uh, uh, perceptions internal,
-
-
 uh, experiences.
-
-
 So this is why I feel that kind of the notion
-
-
+&nbsp;
 of life force can open up this space,
-
-
 open up this interface, uh, to make this interface
-
-
 as a productive movement for intervention
-
-
+&nbsp;
 for our intellectual labor intervention
-
-
 of intellectual labor.
-
-
 Yeah. So, uh, then this drained the feeling of being,
-
-
 uh, drained internally.
-
-
+&nbsp;
 Mm-hmm. As I mentioned, sorry, I was,
-
-
 the talk is not very structured,
-
-
 but it goes back to what I said earlier,
-
-
+&nbsp;
 and based on my empirical observation,
-
-
 people feel internally drained is often when
-
-
 actually the external force
-
-
 really confine them into certain system.
-
-
+&nbsp;
 Uh, and as a result, they don't have enough experiential
-
-
 or memory reservoir, uh, that they can rely on
-
-
 and form their own, uh, uh, response,
-
-
+&nbsp;
 or at least create a certain distance between themselves
-
-
 and the external, uh, events,
-
-
 if we use the everyday language to describe that.
-
-
+&nbsp;
 So that's the, the, the, the, the, uh, uh, the,
-
-
 the, the, the, the sustainability,
-
-
 how the sustainability should be understood through, uh,
-
-
+&nbsp;
 particular relation between the, the self,
-
-
 uh, and the world.
-
-
 So I don't know what it means,
-
-
 but I feel, uh, that is interesting.
-
-
+&nbsp;
 Uh, uh, topic to, again, is not a usual academic topic
-
-
 to describe the world,
-
-
 and it is a, uh, um, um,
-
-
+&nbsp;
 is a, a word to intervene the world.
-
-
 And this is, uh, yeah, as Alina mentioned, we wanted
-
-
 to promote this common concern approach.
-
-
+&nbsp;
 A common concern approach is approach that they wanted
-
-
 to make research or become a piece of furniture.
-
-
 It will travel back to people's life.
-
-
+&nbsp;
 Uh, uh, so that's, yeah, this is a lu line.
-
-
 Research is not only a mirror. Research is a motto. Motto.
-
-
+&nbsp;
 It is an engine. It's not only a mirror, but it's a motto.
-
-
 They can, people say, oh,
-
-
 it's a distorted picture and et cetera.
-
-
+&nbsp;
 But the Picasso, pictures, paintings all distorted.
-
-
 But that particular type of distortion
-
-
 allows certain understanding of the, of the,
-
-
+&nbsp;
 of the, of the viewer.
-
-
 You give agency to the viewer. Yeah.
-
-
 So that's, uh, uh, uh, and then come back in.
-
-
+&nbsp;
 What is, uh, the, um, my key point is that,
-
-
 so can we understand capitalism and the political domination
-
-
 and the pursuit, uh, for justice,
-
-
+&nbsp;
 uh, as a struggle of, uh, life force
-
-
 and then thinking that way, uh, that I have more
-
-
 to say about this, about in the students movement,
-
-
+&nbsp;
 because this is not a program.
-
-
 There is a very clear plan,
-
-
 and no one knows what will happen in next week.
-
-
+&nbsp;
 Uh, but this is a genuine effort
-
-
 of social change because we know
-
-
 a totality, we know the problem,
-
-
 and we know what we want to transcend.
-
-
+&nbsp;
 But of course, we don't know the path
-
-
 and we may be crushed all the time.
-
-
 And at this moment, I think a certain perception
-
-
+&nbsp;
 of life force is important.
-
-
 And I think already the students make a huge contribution
-
-
 to humanities, at least to me,
-
-
+&nbsp;
 by really giving me extra life force now.
-
-
 Thank you.
 
 ## 简体中文

@@ -1286,6 +1286,8 @@ be awake, be aware, be alive，醒着，知觉着，活着。
 在初中开始自残，高中自杀。
 对自己的存在感到非常虚无，不知道自己的存在是什么。
 
+## [许倬云 × 项飙：今天我们如何安身立命？](https://www.thepaper.cn/newsDetail_forward_22023741)
+
 ## [项飙×刘小东：我们同时面临“意义缺失”和“意义过剩”](https://www.lifeweek.com.cn/h5/article/detail.do?artId=191539)
 
 **刘小东**：我在日常生活里头，要是和陌生人问一声好，
@@ -1571,4 +1573,4 @@ be awake, be aware, be alive，醒着，知觉着，活着。
 
 一定不要为了改变命运而活着，因为活着就是命运本身。
 
-## [对话项飙、戴锦华：附近是世界的解药吗？](https://mp.weixin.qq.com/s/JZRg9HoECfiRNESug3nCuw)
+## [项飙：线上同温层非常重要，但也很脆弱，是一种浪漫型的异化](https://www.thepaper.cn/newsDetail_forward_31138665)
