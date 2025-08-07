@@ -21,6 +21,7 @@ and sudden what, what kind of life I'm having, but have,
 but concentrated and,
 and intensive fun, I suppose, is
 what the revolution is about.
+
 And the students here,
 and I I, if anyone listen, I must say a big thanks to them.
 &nbsp;
@@ -55,6 +56,7 @@ but I feel that that kind of power, the force
 that in golf, the current political life
 &nbsp;
 compels us to address that question.
+
 And of course, the historical analogy can be helpful in
 this, uh, incident.
 So the natural comparison is go back to the 1960s,
@@ -133,6 +135,7 @@ envisioned about the pro revolution,
 because it was really about the working
 &nbsp;
 and the reworking on consciousness.
+
 And it is really go beyond immediate
 material understanding of your life.
 If you look at the socialist revolution, like in China,
@@ -200,6 +203,7 @@ So the theory and the practice also become a unity, uh,
 uh, so totality.
 And then through the notion of totality.
 &nbsp;
+
 So the action go beyond the immediate calculation,
 immediate pursued for immediate material interest.
 So the totality here is, you can say, is a,
@@ -222,6 +226,7 @@ the social life is organized as a whole
 &nbsp;
 and how we live our life,
 and how we perceive, uh, our as our lives.
+
 So that is the, the, uh, uh, I just, I mean, then
 &nbsp;
 I thought the notion of life force, uh, could be useful,
@@ -318,6 +323,7 @@ You know, my life force is being taken away
 and I want to cultivate my own life force.
 So there is a sense of struggle.
 &nbsp;
+
 So the agency somehow emerged in this
 dark situation.
 Uh, also when people talk about the life of force,
@@ -388,6 +394,7 @@ and, uh, and, uh, uh, just interesting individuals.
 This is how they perceive themselves.
 So the pain is coming from this life of force.
 &nbsp;
+
 Question I gave you very quick, um, vette about how, uh,
 uh, uh, uh, uh, many large IT
 companies hire, uh, staff.
@@ -502,6 +509,7 @@ So the, the, uh, uh, the su the,
 the sustainability here is what I want
 to think a little more.
 &nbsp;
+
 So, how do you, uh,
 create a situation that you can interact
 with the external world in a sustainable, uh, sustain,
@@ -532,6 +540,7 @@ therefore sustainable and
 &nbsp;
 or in other conditions, uh, it's just not a sustainable,
 even though you are rewarded, uh, very generously.
+
 Like students study very hard, have high scores,
 &nbsp;
 and they got all the prizes,
@@ -644,6 +653,7 @@ that life force is the last resort that we have
 &nbsp;
 to push back, difficult situation.
 So it is very, very private.
+
 Uh, so this is also, I think, you know, I want
 &nbsp;
 to make a quick distinction between life force and the life.
@@ -706,6 +716,7 @@ does it provide a new angle for us to think of the relation
 &nbsp;
 between, uh, nature and man,
 or to rethink of the anthrop problem?
+
 Uh, of course, you know, go back to Marx.
 &nbsp;
 The labor is always a mediation between society
@@ -789,6 +800,7 @@ It's kind of draining internally, right?
 So I found that is interesting
 because I have not figured, uh, work this out yet.
 &nbsp;
+
 I'm certainly, we wouldn't call the force consciousness,
 but this kind of consciousness also shows
 how external forces act on earth
@@ -844,6 +856,7 @@ A common concern approach is approach that they wanted
 to make research or become a piece of furniture.
 It will travel back to people's life.
 &nbsp;
+
 Uh, uh, so that's, yeah, this is a lu line.
 Research is not only a mirror. Research is a motto. Motto.
 &nbsp;
