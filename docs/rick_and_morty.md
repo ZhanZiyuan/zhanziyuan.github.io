@@ -29,7 +29,10 @@ Come on, Morty.
 
 ### [English](https://rickandmorty.fandom.com/wiki/Close_Rick-Counters_of_the_Rick_Kind/Transcript)
 
-……
+**Rick (C-137)**: I’m the Rick!
+And so were the rest of you before you formed this stupid alliance.
+You wanted to be safe from the government so you became a stupid government.
+That makes every Rick here less Rick than me.
 
 ### [简体中文](https://bangumi.tv/ep/359060)
 
@@ -39,7 +42,21 @@ Come on, Morty.
 
 ### [English](https://rickandmorty.fandom.com/wiki/The_Wedding_Squanchers/Transcript)
 
-……
+**Rick**: Hi everybody I’m Rick.
+You know when I first met Bird Person he was…
+listen I’m not the nicest guy in the universe because I’m the smartest,
+and being nice is something stupid people do to hedge their bets.
+Now I haven’t been exactly subtle about how little I trust marriage,
+I couldn’t make it work
+and I could turn a black hole into a sun
+so at a certain point you got to ask yourself what are the odds this is legit?
+Not just some big lie we’re telling ourselves because we’re afraid to die alone?
+Because, you know, that’s exactly how we all die, alone.
+But, but here’s the thing Bird Person is my best friend
+and if he loves Tammy well then I love Tammy too.
+To friendship,
+to love and to my greatest adventure yet;
+opening myself up to others.
 
 ### [简体中文](https://bangumi.tv/ep/552140)
 
@@ -115,7 +132,22 @@ Each of us gets to choose.
 
 ### [English](https://rickandmorty.fandom.com/wiki/The_Old_Man_and_the_Seat/Transcript)
 
-……
+There he is. There's our guy.
+Congrats, Tony.
+Have fun with your stupid toilet
+that you get to use all by yourself now.
+Enjoy using it all by yourself while you sit there
+and think about how nobody wants to be around you
+and how you ruined it for yourself
+because you're a huge piece of shit
+Look at you sitting there,
+King Shit on his throne of loneliness.
+Enjoy this toilet with a thousand of me
+screaming every time you take a shit
+All hail his majesty,
+the sa-a-ddest piece of garbage in the entire cosmos.
+Long live the big, bad, doo-doo daddy.
+May his reign last 1,000 years.
 
 ### [简体中文](https://bangumi.tv/ep/917310)
 
@@ -125,7 +157,49 @@ Each of us gets to choose.
 
 ### [English](https://rickandmorty.fandom.com/wiki/Never_Ricking_Morty/Transcript)
 
-……
+Wow. Where did you get this thing?
+The citadel of Ricks gift shop.
+Do you really like it?
+I didn't think you'd even care. What? Morty.
+No. I love it. You did the most important thing.
+You... you bought something. What? You bought something.
+With money. God. I love money so much, Morty.
+Are you being sarcastic?
+Merchandise, Morty.
+Your only purpose in life is to buy and consume merchandise.
+And you did it. You went into a store...
+an actual honest to God store...
+And you bought something.
+You didn't ask questions or raise ethical complaints.
+You... you just looked straight into the bleeding jaws of capitalism
+and said "yes, daddy, please." And I'm...
+I'm so proud of you.
+I only wish you could've bought more.
+I... I love buying things so much, Morty.
+Rick, are... are you... Do you need to go to the hospital?
+I love you, Morty. Give grandpa a kiss.
+Give... give... gimme... Give grandpa a kiss.
+Lips if you want. What... whatever you're comfortable with.
+Some cultures do that.
+That was sweet. Thank you. I... I love you.
+You're my little buddy.
+Okay. Let's watch some interdimensional cable.
+( Television clicks, static crackles ) ( Train whistle blows )
+So you're saying my father And his kingdom...
+Well, yes... it's based on the fusion of a sumerian God named "ya"
+And a mesopotamian God named "way."
+And we're in a toy train?
+Yes. It's enough to really make you question All of existence, isn't it?
+So what do you think you're gonna do about it?
+I'm gonna do what I've always done.
+I'm gonna get the fuck outta here. Father of omens!
+Give me blood beyond sight! ( Crackling ) Hey, what the fuck, Morty?
+The train you got me just completely derailed itself.
+There's blood all over the windows on it. Oh, man, I'm sorry, Rick.
+I guess I'll return it. Return... Are you insane?
+Did you hear nothing I said? Buy another one, Morty.
+Consume, Morty. Nobody's out there shopping with this fucking virus.
+Where's your fucking wallet?!
 
 ### [简体中文](https://bangumi.tv/ep/922915)
 
