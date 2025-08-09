@@ -36,7 +36,9 @@ That makes every Rick here less Rick than me.
 
 ### [简体中文](https://bangumi.tv/ep/359060)
 
-……
+**瑞克**：我只是Rick！在组成这个愚蠢的联盟以前，你们也是。
+你们想免受政府的迫害，于是你们自己变成了愚蠢的政府。
+所以我比这里的每一个Rick都更像真正的Rick。
 
 ## [Season 2 Episode 10 The Wedding Squanchers](https://www.imdb.com/title/tt4832278/)
 
@@ -358,7 +360,7 @@ of the Hole itself?
 **Morty**: What?
 
 **Rick**: I swear to God, if we're still climbing out
-of this f*cking hole two seasons from now...
+of this fucking hole two seasons from now...
 
 **Morty**: Maybe that was it.
 
