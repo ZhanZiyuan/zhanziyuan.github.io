@@ -36,7 +36,7 @@ That makes every Rick here less Rick than me.
 
 ### [简体中文](https://bangumi.tv/ep/359060)
 
-**瑞克**：我只是Rick！在组成这个愚蠢的联盟以前，你们也是。
+**瑞克（C-137）**：我只是Rick！在组成这个愚蠢的联盟以前，你们也是。
 你们想免受政府的迫害，于是你们自己变成了愚蠢的政府。
 所以我比这里的每一个Rick都更像真正的Rick。
 
