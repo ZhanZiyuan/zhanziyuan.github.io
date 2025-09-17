@@ -14,3 +14,9 @@ or shuffle/recover the pixels of images.
 [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/magnet2torrent)](https://magnet2torrent.vercel.app/)
 
 Convert a magnet link to a .torrent file.
+
+### [DNA](https://github.com/project-aico/dna)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/dnadsl)](https://dnadsl.vercel.app/)
+
+Transcription between UTF-8 text and DNA bases.
