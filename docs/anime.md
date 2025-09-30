@@ -20,19 +20,19 @@
 但我有时候会想，要是我有那种青春的话，要是眼前有会为我流泪的女主角的话，
 要是我是轻小说男主角的话，那个时候，我会有什么感觉呢？
 
-![Too Many Losing Heroines! EP01 00:11](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0011.png "負けヒロインが多すぎる！ EP01 00:11")
+![Too Many Losing Heroines! EP01 00:11](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0011.png "負けヒロインが多すぎる！ EP01 00:11")
 
-![Too Many Losing Heroines! EP01 00:25](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0025.png "負けヒロインが多すぎる！ EP01 00:25")
+![Too Many Losing Heroines! EP01 00:25](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0025.png "負けヒロインが多すぎる！ EP01 00:25")
 
-![Too Many Losing Heroines! EP01 00:40](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0040.png "負けヒロインが多すぎる！ EP01 00:40")
+![Too Many Losing Heroines! EP01 00:40](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0040.png "負けヒロインが多すぎる！ EP01 00:40")
 
-![Too Many Losing Heroines! EP01 00:45](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0045.png "負けヒロインが多すぎる！ EP01 00:45")
+![Too Many Losing Heroines! EP01 00:45](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_0045.png "負けヒロインが多すぎる！ EP01 00:45")
 
-![Too Many Losing Heroines! EP01 19:37](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_1937.png "負けヒロインが多すぎる！ EP01 19:37")
+![Too Many Losing Heroines! EP01 19:37](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_1937.png "負けヒロインが多すぎる！ EP01 19:37")
 
-![Too Many Losing Heroines! EP01 20:16](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_2016.png "負けヒロインが多すぎる！ EP01 20:16")
+![Too Many Losing Heroines! EP01 20:16](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_2016.png "負けヒロインが多すぎる！ EP01 20:16")
 
-![Too Many Losing Heroines! EP01 21:30](assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_2130.png "負けヒロインが多すぎる！ EP01 21:30")
+![Too Many Losing Heroines! EP01 21:30](./assets/images/too_many_losing_heroines/too_many_losing_heroines_ep01_2130.png "負けヒロインが多すぎる！ EP01 21:30")
 
 ## [『メダリスト』TVアニメ公式⛸🏅](https://x.com/medalist_PR/status/1875581259369660581)
 
@@ -67,8 +67,8 @@ TVアニメ『#メダリスト 』
 クセのあるクラスメイトたちと共に送る新生活がいま始まる！
 と、意気揚々と始めてみたもののそんなにうまくはいかないみたいで……。
 
-![Remake Our Life! EP01 17:23](assets/images/remake_our_life/remake_our_life_ep01_1723.png "ぼくたちのリメイク EP01 17:23")
+![Remake Our Life! EP01 17:23](./assets/images/remake_our_life/remake_our_life_ep01_1723.png "ぼくたちのリメイク EP01 17:23")
 
-![Remake Our Life! EP01 48:39](assets/images/remake_our_life/remake_our_life_ep01_4839.png "ぼくたちのリメイク EP01 48:39")
+![Remake Our Life! EP01 48:39](./assets/images/remake_our_life/remake_our_life_ep01_4839.png "ぼくたちのリメイク EP01 48:39")
 
-![Remake Our Life! EP11 22:35](assets/images/remake_our_life/remake_our_life_ep11_2235.png "ぼくたちのリメイク EP11 22:35")
+![Remake Our Life! EP11 22:35](./assets/images/remake_our_life/remake_our_life_ep11_2235.png "ぼくたちのリメイク EP11 22:35")
