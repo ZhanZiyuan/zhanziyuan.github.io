@@ -20,3 +20,17 @@ Convert a magnet link to a .torrent file.
 [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/dnadsl)](https://dnadsl.vercel.app/)
 
 Transcription between UTF-8 text and DNA bases.
+
+### [Doctoral Suitability Assessment Scale](https://github.com/ZhanZiyuan/doctoral-suitability-assessment)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/dsascale)](https://dsascale.vercel.app/)
+
+A scientific, non-diagnostic self-assessment tool
+to evaluate your readiness for a PhD program.
+
+### [ASCII Cube](https://github.com/ZhanZiyuan/ascii-cube)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/asciicube)](https://asciicube.vercel.app/)
+
+An implementation of the ASCII Cube
+on [GitHub Shop](https://thegithubshop.com/).
