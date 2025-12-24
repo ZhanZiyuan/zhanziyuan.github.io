@@ -1,4 +1,4 @@
-# Welcome to Zhan Ziyuan's blog
+# Welcome to my blog
 
 ## Projects
 
@@ -13,7 +13,7 @@ or shuffle/recover the pixels of images.
 
 [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/magnet2torrent)](https://magnet2torrent.vercel.app/)
 
-Convert a magnet link to a .torrent file.
+Convert a magnet link to a `.torrent` file.
 
 ### [DNA](https://github.com/project-aico/dna)
 
@@ -34,3 +34,21 @@ to evaluate your readiness for a PhD program.
 
 An implementation of the ASCII Cube
 on [GitHub Shop](https://thegithubshop.com/).
+
+### [Random Podcast](https://github.com/ZhanZiyuan/RandomPodcast)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/randompodcast)](https://randompodcast.vercel.app/)
+
+Play a random podcast from iTunes API.
+
+### [Lrc2Sub](https://github.com/ZhanZiyuan/Lrc2Sub)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/lrc2sub)](https://lrc2sub.vercel.app/)
+
+Convert `.lrc` files to `.srt` files.
+
+### [InstaFrame](https://github.com/ZhanZiyuan/InstaFrame)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/insframe)](https://insframe.vercel.app/)
+
+A web app to add an Instagram style frame to your image.
