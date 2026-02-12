@@ -52,3 +52,17 @@ Convert `.lrc` files to `.srt` files.
 [![Vercel Deploy](https://deploy-badge.vercel.app/vercel/insframe)](https://insframe.vercel.app/)
 
 A web app to add an Instagram style frame to your image.
+
+### [Pixel Craft](https://github.com/ZhanZiyuan/pixel-craft)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/pixel8bit)](https://pixel8bit.vercel.app/)
+
+A web-based pixel art converter built with Next.js and React
+that transforms images into customizable retro-style graphics.
+
+### [ScanSnap](https://github.com/ZhanZiyuan/ScanSnap)
+
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/scan-snap)](https://scan-snap.vercel.app/)
+
+A web-based tool for decoding QR codes and barcodes directly from images,
+eliminating the need for physical phone scanning of computer screens.
